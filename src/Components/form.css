@@ -1,0 +1,60 @@
+.container
+{
+    background-color:#FACD3E4D;
+    padding-left:106px ;
+    padding-top: 107px;
+     display: flex;
+      gap: 50px;
+}
+.form
+{
+  display: flex;
+  gap: 35px;
+}
+.inputbox
+{
+    width: 600px;
+    height: 56px;
+    /* text-align: center; */
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    background-color:transparent;
+    margin-bottom: 12px;
+
+}
+.error
+{
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.checkboxname
+{
+  display: flex;
+  gap: 10px;
+  
+  
+}
+
+
+
+
+  
+  /* Slider (Background of the Toggle) */
+  
+  
+
+ 
+  .submit
+  {
+   width: 115px;
+   height: 58px;
+   background-color: black;
+   color: #ccc;
+   border: none;
+   border-radius: 15px;
+   margin-top: 35px;
+  }
